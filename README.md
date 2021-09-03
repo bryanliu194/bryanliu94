@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bryan
-- 👀 I’m interested in reinforcement learning
+- 👀 I’m interested in deep learning
 - 🌱 I’m currently studying Computer Science at Georgia Institute of Technology
 - 💞️ I’m looking to collaborate on related research projects
 - 📫 How to reach me: bryanliu@gatech.edu
